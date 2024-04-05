@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\TruncaterTest::testTruncate":0.003,"App\\BooksListTest::testCurrentAndNext":0.003,"App\\BooksListTest::testKey":0,"App\\BooksListTest::testRewind":0,"App\\BooksListTest::testValid":0}}
