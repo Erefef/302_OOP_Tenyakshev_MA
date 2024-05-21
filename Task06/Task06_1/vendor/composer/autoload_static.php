@@ -9,10 +9,10 @@ class ComposerStaticInitda054ac0a7742acbc7466a2bb2536372
     public static $files = array (
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
         'ec07570ca5a812141189b1fa81503674' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
-        'c67bf11a7e0204e0a9b4f2446d3293d8' => __DIR__ . '/../..' . '/src/CreditCard.php',
-        '95055b5297850f0bdf342f3054dc5025' => __DIR__ . '/../..' . '/src/CreditCardAdapter.php',
-        '9c979786503a1c6127e0fa5e620604eb' => __DIR__ . '/../..' . '/src/PayPal.php',
-        'eafeaea35146aefc7cead25619c7779c' => __DIR__ . '/../..' . '/src/PayPalAdapter.php',
+        '37edf57c8a0890b75634f9012c3608fe' => __DIR__ . '/../..' . '/src/CreditCard.php',
+        'ea6b6adc6cdb4c2b4ac25f3bf825ab4e' => __DIR__ . '/../..' . '/src/CreditCardAdapter.php',
+        'f35201775f1129ba72b665628298e785' => __DIR__ . '/../..' . '/src/PayPal.php',
+        'b169c23879d4b98124dac2c519cda309' => __DIR__ . '/../..' . '/src/PayPalAdapter.php',
     );
 
     public static $prefixLengthsPsr4 = array (
