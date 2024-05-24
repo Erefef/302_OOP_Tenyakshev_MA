@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+{"version":1,"defects":[],"times":{"Tests\\TruncaterTest::testTruncate":0.002}}
+=======
 {"version":1,"defects":[],"times":{"Tests\\TruncaterTest::testTruncate":0.892}}
+>>>>>>> teacher/master
